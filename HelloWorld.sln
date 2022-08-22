@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32203.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Services", "HelloWorld.Services\HelloWorld.Services.csproj", "{8396CA88-B4CF-45B9-83B7-695FF27F2649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricPOC.Services", "HelloWorld.Services\ElectricPOC.Services.csproj", "{8396CA88-B4CF-45B9-83B7-695FF27F2649}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Silo", "HelloWorld.Silo\HelloWorld.Silo.csproj", "{5590037B-251F-4A16-B896-BC701BF3F9BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricPOC.Silo", "HelloWorld.Silo\ElectricPOC.Silo.csproj", "{5590037B-251F-4A16-B896-BC701BF3F9BF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Abstractions", "HelloWorld.Abstractions\HelloWorld.Abstractions.csproj", "{31FB0A4A-84CE-485B-9A17-C2D3B3D74EBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricPOC.Abstractions", "HelloWorld.Abstractions\ElectricPOC.Abstractions.csproj", "{31FB0A4A-84CE-485B-9A17-C2D3B3D74EBC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Entities", "HelloWorld.Entities\HelloWorld.Entities.csproj", "{EC27A4B6-93C9-4AE8-B489-F4556F5F4CE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricPOC.Entities", "HelloWorld.Entities\ElectricPOC.Entities.csproj", "{EC27A4B6-93C9-4AE8-B489-F4556F5F4CE2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orleans.Azure.Infrastructure", "Orleans.Azure.Infrastructure\Orleans.Azure.Infrastructure.csproj", "{CB3AD0C0-E535-43DF-AB1B-5DB5106F2EBB}"
 EndProject

@@ -1,7 +1,7 @@
-﻿using HelloWorld.Abstractions;
+﻿using ElectricPOC.Abstractions;
 using Orleans;
 
-namespace HelloWorld.Entities;
+namespace ElectricPOC.Entities;
 
 public class HelloWorld : Grain, IHelloWorld
 {

@@ -1,4 +1,4 @@
-using HelloWorld.Abstractions;
+using ElectricPOC.Abstractions;
 using Orleans;
 using Orleans.Hosting;
 

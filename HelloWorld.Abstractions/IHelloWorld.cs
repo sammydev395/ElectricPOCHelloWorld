@@ -1,6 +1,6 @@
 ﻿using Orleans;
 
-namespace HelloWorld.Abstractions;
+namespace ElectricPOC.Abstractions;
 
 public interface IHelloWorld : IGrainWithGuidKey
 {

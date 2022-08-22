@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorld.Abstractions\HelloWorld.Abstractions.csproj" />
-    <ProjectReference Include="..\HelloWorld.Entities\HelloWorld.Entities.csproj" />
+    <ProjectReference Include="..\HelloWorld.Abstractions\ElectricPOC.Abstractions.csproj" />
+    <ProjectReference Include="..\HelloWorld.Entities\ElectricPOC.Entities.csproj" />
     <ProjectReference Include="..\Orleans.Azure.Infrastructure\Orleans.Azure.Infrastructure.csproj" />
   </ItemGroup>
 
